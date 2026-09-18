@@ -1,0 +1,13 @@
+.panel {
+  background: #ffffff;
+  border-radius: 18px;
+  padding: 26px;
+  margin-bottom: 24px;
+  box-shadow: 0 6px 20px rgba(16, 24, 40, 0.06);
+}
+
+.title {
+  margin: 0 0 20px;
+  font-size: 21px;
+  color: #172033;
+}
